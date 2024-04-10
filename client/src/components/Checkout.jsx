@@ -1,4 +1,4 @@
-import { useCallback, useState } from 'react';
+import { useState } from 'react';
 import { sendOrderData } from "../http.js";
 import Modal from './Modal.jsx';
 import Error from './Error.jsx';
